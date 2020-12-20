@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> fd7e506dae3724208997c76c34699221e3c56ed1
 # Employee Tracker App with MySQL database
 
 ### Description
@@ -42,8 +38,3 @@ Note: It is recommended for the user to use the add function first to populate t
 ---
 ## Contribution
 - YUNIK SUNG <YUNIKSUNG@GMAIL.COM>
-<<<<<<< HEAD
----
-=======
----
->>>>>>> fd7e506dae3724208997c76c34699221e3c56ed1
