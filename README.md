@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Employee Tracker App with MySQL database
 
 ### Description
@@ -18,8 +16,7 @@ An application that are able to view and manage the departments, roles, and empl
 ### Link to Recorded Video
 
 Following is the link to the video of application being run:
-https://www.youtube.com/watch?v=hI0XbbGSQbo&feature=youtu.be
-
+https://www.youtube.com/watch?v=7GRq244MehU&feature=youtu.be
 ### How to Start
 
 **Build Instructions**
@@ -42,4 +39,3 @@ Note: It is recommended for the user to use the add function first to populate t
 ## Contribution
 - YUNIK SUNG <YUNIKSUNG@GMAIL.COM>
 ---
->>>>>>> 46f7b9f7d74cf09bd46084dde4c8dfaf9093ac9a
