@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Employee Tracker App with MySQL database
 
 ### Description
@@ -42,4 +41,3 @@ Note: It is recommended for the user to use the add function first to populate t
 ## Contribution
 - YUNIK SUNG <YUNIKSUNG@GMAIL.COM>
 ---
->>>>>>> 46f7b9f7d74cf09bd46084dde4c8dfaf9093ac9a
